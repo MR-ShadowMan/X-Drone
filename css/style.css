@@ -300,5 +300,6 @@ span{
     }
     .scroll{
         bottom: 2%;
+        display: none;
     }
 }
